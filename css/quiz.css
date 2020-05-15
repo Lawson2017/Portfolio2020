@@ -1,0 +1,102 @@
+
+body {
+	/* background-image: url(../img/owlBG.jpg); */
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color: black;
+}
+
+button {
+	margin-left: 5%;
+	display: block;
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+
+.col-md {
+	padding: 5px;
+	border-radius: 10px;
+	background-color: gray;
+	width: 20%;
+	margin: 1% 0 1% 5%;
+	color: hsl(0, 10%, 88%);
+	font-size: 1.1em;
+	font-family: italic;
+	font-family: 'Trade Winds', cursive;
+}
+
+input {
+	margin-left: 5%;
+	margin-bottom: 2%
+}
+
+img {
+	margin: 1% 0 1% 5%;
+	width: 480px;
+	height: 340px;
+	border: solid 5px grey;
+}
+
+.correct {
+	color: green;
+}
+
+.incorrect {
+	color: red;
+	margin-bottom: 2%;
+}
+
+.header {
+	font-family: 'Trade Winds', cursive;
+	border-radius: 0;
+	margin: 0;
+	height: 40px;
+	width: 100%;
+	background-color: gray;
+	text-align: center;
+}
+
+.bannerImg {
+	border: none;
+	margin: auto;
+	width: 50px;
+	height: 30px;
+	text-align: center;
+}
+.bannerText {
+	margin: auto;
+	margin-left: 0;
+	text-align: center;
+	font-family: 'Trade Winds', cursive;
+}
+.navbar navbar-light bg-light {
+	text-align: center;
+	font-family: Trade Winds;
+}
+
+#addHere {
+	font-family: 'Trade Winds', cursive;
+}
+.jumbotron {
+	margin: auto;
+	text-align: center;
+	color: black;
+	width: 50%;
+	margin-top: 1%;
+}
+.quiz1 {
+	display: inline-block;
+	position: static;
+	padding: 1%;
+	border-radius: 15px;
+	margin-top: 1%;
+}
+.intro {
+	margin: auto;
+}
+.questions {
+	padding: 1%;
+	border-radius: 15px;
+	margin-top: 1%;
+	background-color: grey;
+}
